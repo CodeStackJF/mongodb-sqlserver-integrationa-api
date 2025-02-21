@@ -1,0 +1,10 @@
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\MongoDB.Domain.dll
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\MongoDB.Domain.deps.json
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\MongoDB.Domain.pdb
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\DnsClient.dll
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\MongoDB.Bson.dll
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\MongoDB.Driver.dll
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\SharpCompress.dll
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\Snappier.dll
+D:\GIT\CSHARP\MongoDB\Domain\MongoDB.Domain\bin\Release\net9.0\publish\ZstdSharp.dll

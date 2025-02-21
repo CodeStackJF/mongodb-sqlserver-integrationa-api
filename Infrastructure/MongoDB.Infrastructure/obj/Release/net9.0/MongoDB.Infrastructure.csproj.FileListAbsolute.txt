@@ -1,0 +1,17 @@
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\bin\Release\net9.0\MongoDB.Infrastructure.deps.json
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\bin\Release\net9.0\MongoDB.Infrastructure.dll
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\bin\Release\net9.0\MongoDB.Infrastructure.pdb
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\bin\Release\net9.0\MongoDB.Application.dll
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\bin\Release\net9.0\MongoDB.Domain.dll
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\bin\Release\net9.0\MongoDB.Domain.pdb
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\bin\Release\net9.0\MongoDB.Application.pdb
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB.Infrastructure.csproj.AssemblyReference.cache
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB.Infrastructure.AssemblyInfoInputs.cache
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB.Infrastructure.AssemblyInfo.cs
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB..CA08C11E.Up2Date
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB.Infrastructure.dll
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\refint\MongoDB.Infrastructure.dll
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\MongoDB.Infrastructure.pdb
+D:\GIT\CSHARP\MongoDB\Infrastructure\MongoDB.Infrastructure\obj\Release\net9.0\ref\MongoDB.Infrastructure.dll

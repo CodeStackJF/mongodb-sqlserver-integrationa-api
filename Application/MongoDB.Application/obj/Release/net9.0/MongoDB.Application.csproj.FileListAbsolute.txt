@@ -1,0 +1,15 @@
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\bin\Release\net9.0\MongoDB.Application.deps.json
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\bin\Release\net9.0\MongoDB.Application.dll
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\bin\Release\net9.0\MongoDB.Application.pdb
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB.Application.csproj.AssemblyReference.cache
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB.Application.AssemblyInfoInputs.cache
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB.Application.AssemblyInfo.cs
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB.Application.csproj.CoreCompileInputs.cache
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB.Application.dll
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\refint\MongoDB.Application.dll
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB.Application.pdb
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\ref\MongoDB.Application.dll
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\bin\Release\net9.0\MongoDB.Domain.dll
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\bin\Release\net9.0\MongoDB.Domain.pdb
+D:\GIT\CSHARP\MongoDB\Application\MongoDB.Application\obj\Release\net9.0\MongoDB..65BD6EF7.Up2Date

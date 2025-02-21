@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8y2o4ZBlBFtLCzOev1G2RdK2GK3QyxsIyiEdMRxgU2Q=",
+  "Source": "MongoDB.Api",
+  "BasePath": "_content/MongoDB.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

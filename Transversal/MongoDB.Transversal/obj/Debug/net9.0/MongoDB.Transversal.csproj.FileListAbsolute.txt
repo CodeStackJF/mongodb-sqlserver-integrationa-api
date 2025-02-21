@@ -1,0 +1,15 @@
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\bin\Debug\net9.0\MongoDB.Transversal.deps.json
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\bin\Debug\net9.0\MongoDB.Transversal.dll
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\bin\Debug\net9.0\MongoDB.Transversal.pdb
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\bin\Debug\net9.0\MongoDB.Domain.dll
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\bin\Debug\net9.0\MongoDB.Domain.pdb
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB.Transversal.csproj.AssemblyReference.cache
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB.Transversal.AssemblyInfoInputs.cache
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB.Transversal.AssemblyInfo.cs
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB.Transversal.csproj.CoreCompileInputs.cache
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB..57F8876C.Up2Date
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB.Transversal.dll
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\refint\MongoDB.Transversal.dll
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\MongoDB.Transversal.pdb
+d:\GIT\CSHARP\MongoDB\Transversal\MongoDB.Transversal\obj\Debug\net9.0\ref\MongoDB.Transversal.dll

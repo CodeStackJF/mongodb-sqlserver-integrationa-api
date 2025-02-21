@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{C2E7B3D3-5FD6-4515-8389-1EE1A37A560D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Domain", "Domain\MongoDB.Domain\MongoDB.Domain.csproj", "{86CF500B-9E36-44FD-9CA5-893A5CC7DF45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{3AA66448-D874-48A3-AD14-761C174D0874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Infrastructure", "Infrastructure\MongoDB.Infrastructure\MongoDB.Infrastructure.csproj", "{9F2DF89B-1270-416B-9249-AFF71286A1E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{3FC61F89-4A9E-4103-B8F1-63EF88081C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Application", "Application\MongoDB.Application\MongoDB.Application.csproj", "{197E41D7-078C-480B-8802-9AD68763E079}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{F5A4FAFF-488F-4A76-A2DB-8F494738365B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Api", "Service\MongoDB.Api\MongoDB.Api.csproj", "{30B26E9E-EF56-4714-B4BC-91EA51B16911}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transversal", "Transversal", "{84468855-A294-46B5-A323-2A7ACE8CC7E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Transversal", "Transversal\MongoDB.Transversal\MongoDB.Transversal.csproj", "{9D81B982-A439-461B-BCBC-D309221C74F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86CF500B-9E36-44FD-9CA5-893A5CC7DF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CF500B-9E36-44FD-9CA5-893A5CC7DF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CF500B-9E36-44FD-9CA5-893A5CC7DF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CF500B-9E36-44FD-9CA5-893A5CC7DF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2DF89B-1270-416B-9249-AFF71286A1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2DF89B-1270-416B-9249-AFF71286A1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2DF89B-1270-416B-9249-AFF71286A1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2DF89B-1270-416B-9249-AFF71286A1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197E41D7-078C-480B-8802-9AD68763E079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197E41D7-078C-480B-8802-9AD68763E079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197E41D7-078C-480B-8802-9AD68763E079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197E41D7-078C-480B-8802-9AD68763E079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B26E9E-EF56-4714-B4BC-91EA51B16911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B26E9E-EF56-4714-B4BC-91EA51B16911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B26E9E-EF56-4714-B4BC-91EA51B16911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B26E9E-EF56-4714-B4BC-91EA51B16911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D81B982-A439-461B-BCBC-D309221C74F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D81B982-A439-461B-BCBC-D309221C74F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D81B982-A439-461B-BCBC-D309221C74F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D81B982-A439-461B-BCBC-D309221C74F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86CF500B-9E36-44FD-9CA5-893A5CC7DF45} = {C2E7B3D3-5FD6-4515-8389-1EE1A37A560D}
+		{9F2DF89B-1270-416B-9249-AFF71286A1E1} = {3AA66448-D874-48A3-AD14-761C174D0874}
+		{197E41D7-078C-480B-8802-9AD68763E079} = {3FC61F89-4A9E-4103-B8F1-63EF88081C87}
+		{30B26E9E-EF56-4714-B4BC-91EA51B16911} = {F5A4FAFF-488F-4A76-A2DB-8F494738365B}
+		{9D81B982-A439-461B-BCBC-D309221C74F8} = {84468855-A294-46B5-A323-2A7ACE8CC7E7}
+	EndGlobalSection
+EndGlobal
